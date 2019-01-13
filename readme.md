@@ -20,7 +20,7 @@ Langenscheidt provides the **best free dictionary** for German-Danish translatio
 * Dänisch
 * Deutsch
 * Finnisch
-* Franzoesisch
+* Französisch
 * Griechisch
 * Isländisch
 * Italienisch
