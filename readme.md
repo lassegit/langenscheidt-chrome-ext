@@ -1,6 +1,6 @@
 # Chrome extension for searching Langenscheidt dictionary
 
-Langenscheidt provides the best free dictionary for German Danish translations available online. This extension allows you to right click on marked text and then look it up in the Langenscheidt dictionary by selecting: "Search Langenscheidt":
+Langenscheidt provides the **best free dictionary** for German-Danish translations. This extension allows you to right click on marked text and then look it up in the Langenscheidt dictionary by selecting: "Search Langenscheidt":
 
 ![alt text](https://raw.githubusercontent.com/lassegit/langenscheidt-chrome-ext/master/screenshot.png)
 
@@ -35,7 +35,7 @@ Langenscheidt provides the best free dictionary for German Danish translations a
 * Türkisch
 * Ungarisch
 
-Note: One of the languages has be be _German (Deutsch)_.
+Note: One of the languages has be be **German (Deutsch)**.
 
 ## Links
 
