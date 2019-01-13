@@ -4,6 +4,14 @@ Langenscheidt provides the **best free dictionary** for German-Danish translatio
 
 ![alt text](https://raw.githubusercontent.com/lassegit/langenscheidt-chrome-ext/master/screenshot.png)
 
+## Installation
+
+* Clone the git repository `git clone https://github.com/lassegit/langenscheidt-chrome-ext` or [download the .zip file](https://github.com/lassegit/langenscheidt-chrome-ext/archive/master.zip).
+
+* Navigate to `chrome://extensions`, enable `Developer mode` in the top right corner and chose `Load unpacked` and select the downloaded repository folder.
+
+* You can set the desired languages by clicking the extension's book icon the extension menu, next to the address bar.
+
 ## Supported languages
 
 * Arabisch
